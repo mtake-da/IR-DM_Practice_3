@@ -1,4 +1,4 @@
-Report - Running the code (simple language)
+Report - Running the code 
 
 What I did:
 - Ran parts of `PA1-skeleton.ipynb` to load helpers.
@@ -21,7 +21,7 @@ Files created by running the notebook:
 - `submission/imports.py` (generated when running setup cells).
 
 How to reproduce locally:
-1. (Optional) Create and activate the Conda environment as described in `README.md`:
+1. Create and activate the Conda environment as described in `README.md`:
 
    conda env create -f environment.yml
    conda activate cs276-pa1
