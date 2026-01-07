@@ -1,7 +1,7 @@
 
 # IR-DM_Practice_3
 
-My report in `README.md`
+My report in `REPORT.md`
 
 Getting started
 ===============
